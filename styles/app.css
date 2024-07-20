@@ -1,0 +1,20 @@
+body {
+  background: #f8e8a6;
+}
+h1,
+p {
+  text-align: center;
+}
+
+.center-link {
+  text-align: center;
+}
+.center-link a {
+  padding: 15px;
+  color: #a52a2a;
+  text-decoration: none;
+}
+.center-link a:hover {
+  color: #6a9904;
+  text-decoration: underline;
+}
